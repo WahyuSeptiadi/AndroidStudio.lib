@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    tools:context=".MainActivity">
+
+    <RelativeLayout
+        android:id="@+id/TITLE"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:id="@+id/bgTitle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:background="@drawable/bg_round"/>
+
+        <EditText
+            android:id="@+id/edit_text_title"
+            android:layout_width="300dp"
+            android:layout_centerHorizontal="true"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="7dp"
+            android:background="@android:color/transparent"
+            android:hint="Title"
+            android:layout_marginBottom="5dp"/>
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/MESSAGE"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:id="@+id/bgMessage"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:padding="10dp"
+            android:background="@drawable/bg_round"/>
+
+        <EditText
+            android:id="@+id/edit_text_message"
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:background="@android:color/transparent"
+            android:hint="Message"
+            android:layout_marginBottom="50dp"
+            android:layout_marginTop="12dp"/>
+    </RelativeLayout>
+
+    <Button
+        android:id="@+id/ReplayChat"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/edit_text_message"
+        android:onClick="sendOnChannel1"
+        android:background="@drawable/btn_round"
+        android:textColor="#fff"
+        android:text="Replay Chat" />
+
+    <Button
+        android:id="@+id/MediaPlayer"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/ReplayChat"
+        android:onClick="sendOnChannel2"
+        android:layout_marginTop="5dp"
+        android:background="@drawable/btn_round"
+        android:textColor="#fff"
+        android:text="Media Player" />
+
+    <Button
+        android:id="@+id/BigContext"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/MediaPlayer"
+        android:onClick="sendOnChannel3"
+        android:layout_marginTop="5dp"
+        android:background="@drawable/btn_round"
+        android:textColor="#fff"
+        android:text="BIG Context" />
+
+    <Button
+        android:id="@+id/ProgressBar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/BigContext"
+        android:onClick="sendOnChannel4"
+        android:layout_marginTop="5dp"
+        android:background="@drawable/btn_round"
+        android:textColor="#fff"
+        android:text="Progress Bar" />
+
+    <Button
+        android:id="@+id/MultiNotification"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/ProgressBar"
+        android:onClick="sendOnChannel5"
+        android:layout_marginTop="5dp"
+        android:background="@drawable/btn_round"
+        android:textColor="#fff"
+        android:text="Multi Notification" />
+
+    <Button
+        android:id="@+id/DeleteGroupNotif"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/MultiNotification"
+        android:onClick="deleteNotificationChannels"
+        android:layout_marginTop="5dp"
+        android:background="@drawable/btn_round"
+        android:textColor="#fff"
+        android:text="Delete Group 1" />
+</LinearLayout>
