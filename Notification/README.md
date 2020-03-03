@@ -8,3 +8,5 @@ Defunct GFM,![Big Content API 22](https://user-images.githubusercontent.com/3795
 ![Progress Download API 22](https://user-images.githubusercontent.com/37952748/75747232-f657c180-5d4e-11ea-89b6-a2c51769454a.jpeg=500x500)
 ![reply chat API 29](https://user-images.githubusercontent.com/37952748/75747234-f6f05800-5d4e-11ea-8926-bda699e90937.jpeg=500x500)
 ![setting notif API 26 keatas](https://user-images.githubusercontent.com/37952748/75747236-f788ee80-5d4e-11ea-87a0-4ea04f3cf498.jpeg=500x500)
+
+<img src="https://github.com/favicon.ico" height="24" width="48">
