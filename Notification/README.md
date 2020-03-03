@@ -1,7 +1,8 @@
 # AndroidStudio.Library
 ### Display Notification
 <img class="img-icon" src="https://github.com/favicon.ico" width="20"> 
-<a class="image-link" href="https://user-images.githubusercontent.com/37952748/75747217-f2c43a80-5d4e-11ea-8920-cd1a3320a39c.jpeg">Big Content API 22</a><br>
+<img class="img-icon" src="https://user-images.githubusercontent.com/37952748/75747217-f2c43a80-5d4e-11ea-8920-cd1a3320a39c.jpeg" width="20"> 
+<a href="https://user-images.githubusercontent.com/37952748/75747217-f2c43a80-5d4e-11ea-8920-cd1a3320a39c.jpeg">Big Content API 22</a><br>
 <a href="https://user-images.githubusercontent.com/37952748/75747224-f48dfe00-5d4e-11ea-9d3a-8874bd12f6a8.jpeg">Can't reply chat API 22</a><br>
 <a href="https://user-images.githubusercontent.com/37952748/75747225-f5269480-5d4e-11ea-91be-6b84eb752cc5.jpeg">Media Player API 22</a><br>
 <a href="https://user-images.githubusercontent.com/37952748/75747230-f5bf2b00-5d4e-11ea-9b28-0b9a2c1e8772.jpeg">multichat API 22</a><br>
