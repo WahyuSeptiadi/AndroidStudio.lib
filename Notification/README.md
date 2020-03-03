@@ -1,7 +1,10 @@
-# AndroidStudio.Library
+# Notification
+## Basic code 
+### Pemanggilan Notification
+
 ### Display Notification
 <a href="https://user-images.githubusercontent.com/37952748/75747217-f2c43a80-5d4e-11ea-8920-cd1a3320a39c.jpeg">Big Content API 22</a><br>
-![Big Content API 22](https://user-images.githubusercontent.com/37952748/75747217-f2c43a80-5d4e-11ea-8920-cd1a3320a39c.jpeg)
+//![Big Content API 22](https://user-images.githubusercontent.com/37952748/75747217-f2c43a80-5d4e-11ea-8920-cd1a3320a39c.jpeg)
 
 <br><a href="https://user-images.githubusercontent.com/37952748/75747224-f48dfe00-5d4e-11ea-9d3a-8874bd12f6a8.jpeg">Can't reply chat API 22</a><br>
 ![Can't reply chat API 22](https://user-images.githubusercontent.com/37952748/75747224-f48dfe00-5d4e-11ea-9d3a-8874bd12f6a8.jpeg)
