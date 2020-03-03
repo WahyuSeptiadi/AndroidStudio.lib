@@ -9,8 +9,8 @@
 ![reply chat API 29](https://user-images.githubusercontent.com/37952748/75747234-f6f05800-5d4e-11ea-8926-bda699e90937.jpeg=500x500)
 ![setting notif API 26 keatas](https://user-images.githubusercontent.com/37952748/75747236-f788ee80-5d4e-11ea-87a0-4ea04f3cf498.jpeg=500x500)
 
-<a href="https://user-images.githubusercontent.com/37952748/75747217-f2c43a80-5d4e-11ea-8920-cd1a3320a39c.jpeg" height="100" width="100">Big Content API 22</a><br>
-<a href="https://user-images.githubusercontent.com/37952748/75747217-f2c43a80-5d4e-11ea-8920-cd1a3320a39c.jpeg" height="100" width="100">Big Content API 22</a>
+<a href="https://user-images.githubusercontent.com/37952748/75747217-f2c43a80-5d4e-11ea-8920-cd1a3320a39c.jpeg" >Big Content API 22</a><br>
+<a href="https://user-images.githubusercontent.com/37952748/75747224-f48dfe00-5d4e-11ea-9d3a-8874bd12f6a8.jpeg" height="100" width="100">Big Content API 22</a>
 <a href="https://user-images.githubusercontent.com/37952748/75747217-f2c43a80-5d4e-11ea-8920-cd1a3320a39c.jpeg" height="100" width="100">Big Content API 22</a>
 <a href="https://user-images.githubusercontent.com/37952748/75747217-f2c43a80-5d4e-11ea-8920-cd1a3320a39c.jpeg" height="100" width="100">Big Content API 22</a>
 <a href="https://user-images.githubusercontent.com/37952748/75747217-f2c43a80-5d4e-11ea-8920-cd1a3320a39c.jpeg" height="100" width="100">Big Content API 22</a>
