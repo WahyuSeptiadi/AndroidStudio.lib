@@ -19,5 +19,5 @@
 <br><a href="https://user-images.githubusercontent.com/37952748/75747234-f6f05800-5d4e-11ea-8926-bda699e90937.jpeg">reply chat API 29</a><br>
 ![reply chat API 29](https://user-images.githubusercontent.com/37952748/75747234-f6f05800-5d4e-11ea-8926-bda699e90937.jpeg)
 
-<br><a href="https://user-images.githubusercontent.com/37952748/75747236-f788ee80-5d4e-11ea-87a0-4ea04f3cf498.jpeg">setting notif API 26 keatas</a>
+<br><a href="https://user-images.githubusercontent.com/37952748/75747236-f788ee80-5d4e-11ea-87a0-4ea04f3cf498.jpeg">setting notif API 26 keatas</a><br>
 ![setting notif API 26 keatas](https://user-images.githubusercontent.com/37952748/75747236-f788ee80-5d4e-11ea-87a0-4ea04f3cf498.jpeg)
