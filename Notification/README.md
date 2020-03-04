@@ -1,7 +1,35 @@
 # Notification
 ## Basic code 
 **1. DefaultSound**
-- static Uri defaultSound = RingtoneManager.getDefaultUri(RingtoneManager.TYPE_NOTIFICATION);<br>
+  - static Uri defaultSound = RingtoneManager.getDefaultUri(RingtoneManager.TYPE_NOTIFICATION);<br>
+
+**2. DefaultNotification**
+  - Notification notif = new NotificationCompat.Builder(this, CHANNEL_1_ID)<br>
+  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+  .setSmallIcon(R.drawable.ic_notification)<br>
+  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+  .setContentTitle(title)<br>
+  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+  .setContentText(deskripsi)<br>
+  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+  .setSound(defaultSound)<br>
+  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+  .addAction(replyAction)<br>
+  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+  .setPriority(NotificationCompat.PRIORITY_LOW)<br>
+  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+  .setAutoCancel(true)<br>
+  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+  .build();<br>
+  
+**3. Add Action "Reply"**
+  - NotificationCompat.Action replyAction = new NotificationCompat.Action.Builder(<br>
+  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+  R.drawable.ic_reply,<br>
+  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+  "Reply",<br>
+  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;                 replyPendingIntent).addRemoteInput(remoteInput).build();
+<!--&ensp; TAB 1 -->
 
 ## Display Notification
 <a href="https://user-images.githubusercontent.com/37952748/75747217-f2c43a80-5d4e-11ea-8920-cd1a3320a39c.jpeg">Big Content API 22</a>
@@ -19,7 +47,7 @@
 <a href="https://user-images.githubusercontent.com/37952748/75747230-f5bf2b00-5d4e-11ea-9b28-0b9a2c1e8772.jpeg">Multichat API 22</a>
 <!--
 <br>![multichat API 22](https://user-images.githubusercontent.com/37952748/75747230-f5bf2b00-5d4e-11ea-9b28-0b9a2c1e8772.jpeg)<br>
--->
+--> 
 <a href="https://user-images.githubusercontent.com/37952748/75747232-f657c180-5d4e-11ea-89b6-a2c51769454a.jpeg">Progress Download API 22</a>
 <!--
 <br>![Progress Download API 22](https://user-images.githubusercontent.com/37952748/75747232-f657c180-5d4e-11ea-89b6-a2c51769454a.jpeg)<br>
