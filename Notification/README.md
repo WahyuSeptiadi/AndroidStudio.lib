@@ -1,7 +1,7 @@
 # Notification
 ## Basic code 
 ### DefaultSound
-static Uri defaultSound = RingtoneManager.getDefaultUri(RingtoneManager.TYPE_NOTIFICATION);<br>
+```static Uri defaultSound = RingtoneManager.getDefaultUri(RingtoneManager.TYPE_NOTIFICATION);<br>```
 
 ### Display Notification
 <a href="https://user-images.githubusercontent.com/37952748/75747217-f2c43a80-5d4e-11ea-8920-cd1a3320a39c.jpeg">Big Content API 22</a>
