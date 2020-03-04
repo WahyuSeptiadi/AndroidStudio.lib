@@ -4,13 +4,13 @@
 <h2 align="left">DEPENDENCIES</h2>
 
 #### CARDVIEW
-```implementation 'androidx.cardview:cardview:1.0.0'```
+&emsp;```implementation 'androidx.cardview:cardview:1.0.0'```
 
 #### RECYCLERVIEW
-```implementation 'com.android.support:recyclerview-v7:28.0.0'```
+&emsp;```implementation 'com.android.support:recyclerview-v7:28.0.0'```
 
 #### SUPPORT DESIGN
-```implementation 'com.android.support:design:28.0.0'```
+&emsp;```implementation 'com.android.support:design:28.0.0'```
 
 #### MEDIAPLAYER
 &emsp;```implementation 'com.android.support:support-media-compat:28.0.0'```
