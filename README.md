@@ -30,13 +30,16 @@
 #### PICASSO
 &emsp;```implementation 'com.squareup.picasso:picasso:2.5.2```
 
-&emsp;[  OR Check in here..](https://github.com/codepath/android_guides/wiki/Displaying-Images-with-the-Picasso-Library)<br>
+&emsp;[  OR Check in here..](https://github.com/codepath/android_guides/wiki/Displaying-Images-with-the-Picasso-Library)
 
 #### MANAGEMENT IMAGE
-&emsp;```implementation 'com.github.bumptech.glide:glide:4.11.0'```<br>
+&emsp;```implementation 'com.github.bumptech.glide:glide:4.11.0'```
 
 **Apakah Android Glide itu ?**<br>
 <p align= "justify">&emsp;Glide adalah sumber terbuka perpustakaan Android yang populer untuk memuat gambar, video, dan GIF animasi. Dengan Glide, anda dapat memuat dan menampilkan media dari berbagai sumber, seperti server jarak jauh atau sistem file lokal. Secara default, Glide menggunakan penerapan khusus HttpURLConnection untuk memuat gambar melalui internet. Namun, Glide juga menyediakan plugin ke pustaka jaringan populer lainnya seperti Volley atau OkHttp.</p>
+
+#### GSON
+&emsp;```implementation 'com.google.code.gson:gson:2.8.6'```
 
 #### VOLLEY<br>
 &emsp;```implementation 'com.android.volley:volley:1.1.0'```<br>
