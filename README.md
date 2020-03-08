@@ -1,7 +1,7 @@
 <p align="center"><a href=""><img height="150" src="https://user-images.githubusercontent.com/37952748/75752927-4426f680-5d5c-11ea-80b0-c455992a9f47.png"></a></p>
 <h1 align="center">AndroidStudio.Library</h1>
 
-<h2 align="left">DEPENDENCIES</h2>
+<h2 align="left">DEPENDENCIES compileSdkVersion 28 (STABLE)</h2>
 
 #### CARDVIEW
 &emsp;```implementation 'androidx.cardview:cardview:1.0.0'```
@@ -11,6 +11,9 @@
 
 #### SUPPORT DESIGN
 &emsp;```implementation 'com.android.support:design:28.0.0'```
+
+#### SUPPORT V-4
+&emsp; ```implementation 'com.android.support:support-v4:28.0.0'```
 
 #### MEDIAPLAYER
 &emsp;```implementation 'com.android.support:support-media-compat:28.0.0'```
