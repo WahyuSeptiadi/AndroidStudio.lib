@@ -24,6 +24,11 @@
 #### EDIT TEXT
 &emsp;```implementation 'com.rengwuxian.materialedittext:library:2.1.4'```
 
+#### PICASSO
+&emsp;```implementation 'com.squareup.picasso:picasso:2.5.2```
+
+&emsp;[  OR Check in here..](https://github.com/codepath/android_guides/wiki/Displaying-Images-with-the-Picasso-Library)<br>
+
 #### MANAGEMENT IMAGE
 &emsp;```implementation 'com.github.bumptech.glide:glide:4.11.0'```<br>
 
