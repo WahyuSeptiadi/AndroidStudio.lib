@@ -68,4 +68,5 @@
 
 #### CHECK LAST VERSION DEPENDENCIES
 [Library FIREBASE](https://firebase.google.com/docs/android/setup#available-libraries) <br>
-[Library ANDROIDX](https://developer.android.com/topic/libraries/support-library/packages?hl=id)
+[Library ANDROIDX](https://developer.android.com/topic/libraries/support-library/packages?hl=id) <br>
+[Library GOOGLE APIs](https://developers.google.com/android/guides/releases)
