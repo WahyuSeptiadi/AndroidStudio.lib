@@ -19,7 +19,7 @@
 &emsp;```implementation 'com.android.support:support-media-compat:28.0.0'```
 
 #### CIRCLE IMAGE
-&emsp;```implementation 'de.hdodenhof:circleimageview:2.2.0'```
+&emsp;```implementation 'de.hdodenhof:circleimageview:3.1.0'```
 
 #### SPLASH SCREEN
 &emsp;```implementation 'gr.pantrif:easy-android-splash-screen:0.0.1'```
@@ -34,9 +34,6 @@
 
 #### MANAGEMENT IMAGE
 &emsp;```implementation 'com.github.bumptech.glide:glide:4.11.0'```
-
-#### SPLASHSCREEN
-&emsp; ```implementation 'gr.pantrif:easy-android-splash-screen:0.0.1'```
 
 **Apakah Android Glide itu ?**<br>
 <p align= "justify">&emsp;Glide adalah sumber terbuka perpustakaan Android yang populer untuk memuat gambar, video, dan GIF animasi. Dengan Glide, anda dapat memuat dan menampilkan media dari berbagai sumber, seperti server jarak jauh atau sistem file lokal. Secara default, Glide menggunakan penerapan khusus HttpURLConnection untuk memuat gambar melalui internet. Namun, Glide juga menyediakan plugin ke pustaka jaringan populer lainnya seperti Volley atau OkHttp.</p>
